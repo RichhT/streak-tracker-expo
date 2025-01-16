@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "StreakTracker",
+    "slug": "streak-tracker-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "streak-tracker",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
